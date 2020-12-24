@@ -1,0 +1,11 @@
+Explicaciones
+
+Variables: Son depósitos donde poner y guardar información que puedes usar posteriormente
+
+Strings: Son un tipo de datos de JS formados por una cadena de caracteres, obligatoriamente contenidos entre comillas ""
+
+Funciones: Son acciones que ordenamos por medio de la palabra FUNCTION, contienen argumentos y valores. Las ejecutamos para realizar algo en específico dentro de nuestro código. Dentro de ellas tenemos Return con el cual pedimos una respuesta de parte del editor de código.
+
+Declaraciones (if): Son condicionales que, según si una situación es o no es, nos arroja un resultado que le expresamos.
+
+Valores Booleanos: Son tipos de datos con dos posibles escenarios, true o false, muchas veces respuesta a las situaciones de las condicionales "if"
