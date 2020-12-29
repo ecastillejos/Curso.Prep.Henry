@@ -1,0 +1,9 @@
+Explicaciones
+
+For: Es un ciclo que por medio de una estructura permite repetir un código "x" número de veces, siempre y cuando se cumpla la condición que le determinemos. Nosotros indicamos dónde inicia, cuál es la condición, y cómo se va a ir actualizando.
+
+&&: (And) Es un operador que combina dos valores y retorna un valor booleano. Sólo retornará true cuando ambos valores sean true. De lo contrario, aunque sólo un valor sea false, retornará false.
+
+||: (Or) Es un operador similar a "and (&&)", pero a diferencia de este, retorna true en todos los casos, a menos que ambos valores sean false.
+
+!: (Negación) Es un operador que retorna el valor booleano opuesto al que le es indicado.
