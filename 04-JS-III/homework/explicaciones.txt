@@ -1,0 +1,3 @@
+Explicaciones
+
+Arrays: Son listas de elementos que pueden contener todo tipo de datos (números, strings, booleanos e incluso otras funciones y arrays). Se definen con los corchetes[] y pueden explorarse a través de distintas formas
