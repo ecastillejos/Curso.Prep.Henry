@@ -1,0 +1,11 @@
+Explicaciones
+
+Objetos: Son un contenedor de datos (una colección de propiedades) que tienen información sobre una sola cosa. Variables definidas con {} y separadas por , 
+
+Propiedades: Son asociaciones entre un nombre o clave y un valor.
+
+Métodos: Son funciones que se encuentran dentro de un objeto.
+
+Bucle for...in: Bucle que nos sirve cuando queremos iterar en las propiedades de un objeto. 
+
+Notación de puntos vs. notación de corchetes: Son las dos maneras de acceder a cierto valor. La notación de puntos nos sirve cuando queremos acceder a un valor específico (es literal), mientras que la notación de corchetes, además de eso, es más dinámica, permitiendo que accedamos a variables que refieren a otros valores.
