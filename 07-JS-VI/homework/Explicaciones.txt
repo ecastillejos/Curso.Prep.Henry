@@ -1,0 +1,3 @@
+Explicaciones
+
+Funciones Callback: Son las funciones que pasamos como argumento en otras funciones. Esto da una gran variedad de posibilidades de trabajar.
