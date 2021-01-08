@@ -1,0 +1,5 @@
+Explicaciones
+
+Prototype: Es una referencia que todo objeto tiene hacia otro objeto.
+
+Constructors (de Clases): Es un método para crear objetos que podrán ser utilizados por otros argumentos gracias a la clase a la que pertenecen
